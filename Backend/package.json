@@ -6,6 +6,11 @@
   "scripts": {
     "test": "npm start"
   },
+    "engines" : { 
+    "npm" : ">=8.0.0 <9.0.0",
+    "node" : ">=16.0.0 <17.0.0"
+  },
+
   "author": "bhushan, chandrashekhar",
   "license": "ISC",
   "dependencies": {
