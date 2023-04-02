@@ -1,0 +1,16 @@
+{
+  "name": "bonus-project-march",
+  "version": "1.0.0",
+  "description": "bonus-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "bhushan, chandrashekhar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3"
+  }
+}
